@@ -1,7 +1,11 @@
 # Skew-Heap
+
 EXTRA CREDIT PROJECT
+
 Course: CSC 172
+
 DATE: April. 13th, 2016
+
 
 MAIN CONTENTS OF THE FOLDER
 	Test.java
