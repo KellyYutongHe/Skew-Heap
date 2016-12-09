@@ -31,7 +31,7 @@ MAIN CONTENTS OF THE FOLDER
 
 	//I inclue the whole file in my submission just in case(under the "project files.zip")
 		
-HOW TO COMPILE AND RUN THE CODE //write this for all files
+HOW TO COMPILE AND RUN THE CODE
   //when running with cmd, cygwin and Terminal
   javac Test.java
   java test
